@@ -1,0 +1,205 @@
+body{margin:0; padding:0; background-color:#E6D6AE}
+table, td {border-collapse:collapse;}
+table, td, img {border:0;}
+input, textarea, select{
+          font:14px Tahoma, "Times New Roman", Times, serif; 
+		  color:#660000; 
+		  font-weight:bold; 
+		  background-color:#FFFFCC; 
+		  padding-left:2px}
+
+form, td {margin:0; padding:0;}
+td, tr {font:14px tahoma, Tahoma, helvetica, sans-serif; color:#663333; vertical-align:top;  text-align: center;}
+
+td, tr {vertical-align:top; text-align:left}
+
+.align_right{text-align:right}
+
+.bottom{vertical-align:bottom}
+				 
+.header{
+	font:11px/13px Tahoma, "Times New Roman", Times, serif;
+	color:#4C4639;
+}
+
+.content td, tr {vertical-align:top; 
+                 text-align:left; 
+				 height:30px; 
+				 text-align:center; 
+				 font-weight:bold;}
+
+.content{
+	font:14px Tahoma, "Times New Roman", Times, serif;
+	color:#32211A;
+}
+.content font{
+	font:14px Tahoma, "Times New Roman", Times, serif;
+	color:#32211A;
+	text-transform:uppercase;
+}
+.content font a{
+	color:#32211A;
+	text-decoration:none;
+}
+.content font a:hover{
+	color:#32211A;
+	text-decoration:underline;
+}
+.content b{ 
+    font-family:Arial, Helvetica, sans-serif;
+	color:#D59C4B; line-height:20px;
+}
+.content span{
+	font:14px Tahoma, "Times New Roman", Times, serif;
+	color:#4E3C24;
+	text-transform:uppercase;
+}
+.content span a{
+	text-decoration:none;
+	color:#005B7B;
+}
+.content span a:hover{
+	text-decoration:underline;
+}
+.content strong{
+	font:14px Tahoma, "Times New Roman", Times, serif;
+	color:#32211A;
+	font-weight:bold;
+}
+.content h1{
+	font:14px Tahoma, "Times New Roman", Times, serif;
+	color:#FFFFFF;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+.content h2{
+	font:14px Tahoma, "Times New Roman", Times, serif;
+	color:#F1D6B3;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+.content h3{
+	font:11px Tahoma, "Times New Roman", Times, serif;
+	color:#000000;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+.content a{
+	text-decoration:underline;
+	color:#005B7B;
+}
+.content a:hover{
+	text-decoration:none;
+}
+
+.content ul { 
+	margin:0;
+	padding:0; 
+	list-style:none;
+}
+.content li {
+	background:url(images/dot.gif) center left no-repeat; 
+	margin:0 0 0 0; 
+	padding:0 0 0 11px;
+}
+.content li a { 
+	line-height:20px;
+	color:#D79F4E;
+	text-decoration:none; 
+	background-position:left center;
+}
+.content li a:hover { 
+	text-decoration:underline;
+}
+/**/
+.content_1{
+	font:11px/15px Tahoma, "Times New Roman", Times, serif;
+	color:#4B3921;
+}
+.content_1 ul { 
+	margin:0;
+	padding:0; 
+	list-style:none;
+}
+.content_1 li {
+	font:11px Tahoma, "Times New Roman", Times, serif;
+	background:url(images/dot_1.gif) center left no-repeat; 
+	margin:0 0 0 0; 
+	padding:0 0 0 11px;
+	text-transform:uppercase;
+}
+.content_1 li a { 
+	line-height:20px;
+	color:#4B3921;
+	text-decoration:none; 
+	background-position:left center;
+}
+.content_1 li a:hover { 
+	text-decoration:underline;
+}
+/**/
+/**/
+.content_2 ul { 
+	margin:0;
+	padding:0; 
+	list-style:none;
+}
+.content_2 li {
+	font:11px Tahoma, "Times New Roman", Times, serif;
+	background:url(images/dot_3.gif) center left no-repeat; 
+	margin:0 0 0 0;
+	text-transform:none;
+	padding:0 0 0 12px;
+}
+.content_2 li a { 
+	line-height:15px;
+	color:#A1552C;
+	text-decoration:none;
+	font-weight:bold; 
+	background-position:left center;
+}
+.content_2 li a:hover { 
+	text-decoration:underline;
+}
+/**/
+
+.footer{
+	font:11px/13px Tahoma, "Times New Roman", Times, serif;
+	color:#32211A;
+}
+.footer strong{
+	font:11px/13px Tahoma, "Times New Roman", Times, serif;
+	color:#32211A;
+	font-weight:bold;
+	text-decoration:underline;
+}
+.footer strong span{
+	font:11px/13px Tahoma, "Times New Roman", Times, serif;
+	color:#32211A;
+	text-decoration:underline;
+}
+.footer a{
+	color:#32211A;
+	text-decoration:none;
+	font-weight:bold;
+}
+.footer a:hover{
+	text-decoration:underline;
+}
+.footer span a{
+	color:#32211A;
+	text-decoration:underline;
+	font-weight:normal;
+}
+.footer span a:hover{
+	text-decoration:none;
+}
+
+
+
+
+
+
+
+
+
